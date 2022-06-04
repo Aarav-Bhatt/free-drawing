@@ -1,0 +1,18 @@
+body {
+    background-image:url("https://marketplace.canva.com/EAD40c_T6hY/1/0/1600w/canva-beige-floral-zine-collage-on-trend-zoom-background-GPmGQSJ-1lw.jpg") ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+}
+
+#mycanvas {
+    border:5px chocolate ridge ;
+    background-color: #e8e4cd;
+}
+#clearbutton {
+    background-color:#e7ab2f ;
+    color: #ecebe0;
+    font-size: 18px;
+    font-weight: bold;
+}
